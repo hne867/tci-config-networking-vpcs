@@ -1,0 +1,8 @@
+vrf:
+  name: oamexp
+routing:
+  ipam:
+    primary_cidr: 10.244.100.0/22
+    additional_cidrs: []
+  transit_gateway:
+    id: tgw-0e678b58b6b0ebc81
