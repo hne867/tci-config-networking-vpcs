@@ -1,0 +1,8 @@
+vrf:
+  name: mergedca856578
+routing:
+  ipam:
+    primary_cidr: 10.216.126.0/24
+    additional_cidrs: []
+  transit_gateway:
+    id: tgw-0e66562d9a20c7dc6
